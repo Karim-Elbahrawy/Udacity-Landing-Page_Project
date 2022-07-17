@@ -1,5 +1,7 @@
 # Udacity-Landing-Page_Project
 
+<img src="i.png">
+
 ## Table of contents
 
 *HTML & css cridits for Udacity.
