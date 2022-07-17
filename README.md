@@ -12,7 +12,7 @@
 
 *Highlight active class by add and remove active class when scrolling through the sections.
 
-##Helping Resourses
+## Helping Resourses
 
 *[youtube](https://www.youtube.com/watch?v=_tyL1tNrI5k&ab_channel=LazyBrogrammer)
 
